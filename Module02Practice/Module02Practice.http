@@ -1,0 +1,6 @@
+@Module02Practice_HostAddress = http://localhost:5031
+
+GET {{Module02Practice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
